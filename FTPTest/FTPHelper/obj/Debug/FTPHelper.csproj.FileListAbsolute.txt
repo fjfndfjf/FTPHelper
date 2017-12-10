@@ -1,0 +1,6 @@
+E:\CodeTest\FTPTest\FTPHelper\bin\Debug\FTPHelper.dll
+E:\CodeTest\FTPTest\FTPHelper\bin\Debug\FTPHelper.pdb
+E:\CodeTest\FTPTest\FTPHelper\obj\Debug\FTPHelper.csproj.CoreCompileInputs.cache
+E:\CodeTest\FTPTest\FTPHelper\obj\Debug\FTPHelper.dll
+E:\CodeTest\FTPTest\FTPHelper\obj\Debug\FTPHelper.pdb
+E:\CodeTest\FTPTest\FTPHelper\obj\Debug\FTPHelper.csprojResolveAssemblyReference.cache
