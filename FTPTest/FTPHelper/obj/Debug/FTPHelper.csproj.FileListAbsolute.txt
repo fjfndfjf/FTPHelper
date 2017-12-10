@@ -4,3 +4,9 @@ E:\CodeTest\FTPTest\FTPHelper\obj\Debug\FTPHelper.csproj.CoreCompileInputs.cache
 E:\CodeTest\FTPTest\FTPHelper\obj\Debug\FTPHelper.dll
 E:\CodeTest\FTPTest\FTPHelper\obj\Debug\FTPHelper.pdb
 E:\CodeTest\FTPTest\FTPHelper\obj\Debug\FTPHelper.csprojResolveAssemblyReference.cache
+E:\CodeTest\FTPHelper\FTPTest\FTPHelper\bin\Debug\FTPHelper.dll
+E:\CodeTest\FTPHelper\FTPTest\FTPHelper\bin\Debug\FTPHelper.pdb
+E:\CodeTest\FTPHelper\FTPTest\FTPHelper\obj\Debug\FTPHelper.csprojResolveAssemblyReference.cache
+E:\CodeTest\FTPHelper\FTPTest\FTPHelper\obj\Debug\FTPHelper.csproj.CoreCompileInputs.cache
+E:\CodeTest\FTPHelper\FTPTest\FTPHelper\obj\Debug\FTPHelper.dll
+E:\CodeTest\FTPHelper\FTPTest\FTPHelper\obj\Debug\FTPHelper.pdb

@@ -252,17 +252,37 @@ namespace FTPHelper
         /// <param name="fileName">要删除的文件名</param>
         public void DeleteFile(string directoryPath, string fileName)
         {
-            DeleteFile(directoryPath + fileName);
+            if (directoryPath == "")
+            {
+                DeleteFile(directoryPath + fileName, false);
+            }
+            else
+            {
+                DeleteFile(directoryPath + "_" + fileName, true);
+            }
         }
 
         /// <summary>
         /// 删除服务器文件
         /// </summary>
         /// <param name="fileName">要删除的文件名</param>
-        public void DeleteFile(string fileName)
+        public void DeleteFile(string fileName, bool isExitPath)
         {
-            
-            OpenResponse(fileName, WebRequestMethods.Ftp.DeleteFile);
+            if (isExitPath)
+            {
+                var strData = fileName.Split('_');
+                if (FileExist(strData[0], strData[1]))
+                {
+                    OpenResponse(strData[0] + strData[1], WebRequestMethods.Ftp.DeleteFile);
+                }
+            }
+            else
+            {
+                if (FileExist("", fileName))
+                {
+                    OpenResponse(fileName, WebRequestMethods.Ftp.DeleteFile);
+                }
+            }
         }
 
         /// <summary>

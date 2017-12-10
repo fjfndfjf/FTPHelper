@@ -7,3 +7,12 @@ E:\CodeTest\FTPTest\FTPTest\obj\Debug\FTPTest.exe
 E:\CodeTest\FTPTest\FTPTest\obj\Debug\FTPTest.pdb
 E:\CodeTest\FTPTest\FTPTest\bin\Debug\FTPHelper.dll
 E:\CodeTest\FTPTest\FTPTest\bin\Debug\FTPHelper.pdb
+E:\CodeTest\FTPHelper\FTPTest\FTPTest\obj\Debug\FTPTest.csprojResolveAssemblyReference.cache
+E:\CodeTest\FTPHelper\FTPTest\FTPTest\obj\Debug\FTPTest.csproj.CoreCompileInputs.cache
+E:\CodeTest\FTPHelper\FTPTest\FTPTest\obj\Debug\FTPTest.exe
+E:\CodeTest\FTPHelper\FTPTest\FTPTest\obj\Debug\FTPTest.pdb
+E:\CodeTest\FTPHelper\FTPTest\FTPTest\bin\Debug\FTPTest.exe.config
+E:\CodeTest\FTPHelper\FTPTest\FTPTest\bin\Debug\FTPTest.exe
+E:\CodeTest\FTPHelper\FTPTest\FTPTest\bin\Debug\FTPTest.pdb
+E:\CodeTest\FTPHelper\FTPTest\FTPTest\bin\Debug\FTPHelper.dll
+E:\CodeTest\FTPHelper\FTPTest\FTPTest\bin\Debug\FTPHelper.pdb
